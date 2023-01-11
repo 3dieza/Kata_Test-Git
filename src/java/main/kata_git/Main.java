@@ -5,6 +5,8 @@ public class Main {
         System.out.println("hi there");
         System.out.println("hi git");
         System.out.println("hi branch-2");
-
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
     }
 }
