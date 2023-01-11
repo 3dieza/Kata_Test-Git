@@ -11,5 +11,9 @@ public class Main {
         System.out.println("4");
         System.out.println("5");
         System.out.println("new rebase");
+        method("Chery");
+    }
+    public static void method(String srt){
+        System.out.println(srt);
     }
 }
